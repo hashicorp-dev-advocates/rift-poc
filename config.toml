@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://hashicorp-dev-advocates.github.io/rift-poc/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
