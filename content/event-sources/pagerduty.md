@@ -13,6 +13,9 @@ If configuring PagerDuty as the event source, you will need the follow things co
 - A PagerDuty API token for Rift to use.
 - A webhook notification configured with the following custom headers:
 
+## PagerDuty API token
+
+In order to generate an API token for PagerDuty, folllow the [official PagerDuty documentation.](https://support.pagerduty.com/docs/api-access-keys#generate-a-general-access-rest-api-key) This will be needed when configuring Rift in the testing step.
 ## Configuring the webhook
 
 1. From the PagerDuty Web UI, navigate to the Integrations tab and click on `Generic Webhooks (v3)`

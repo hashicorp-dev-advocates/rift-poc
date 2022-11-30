@@ -5,7 +5,7 @@ lastmodifierdisplayname: "Rob Barnes"
 ---
 # Rift Documentation
 
-## Rift is an event-driven access control orchestrator proof of concept for incident management.
+## Rift is an event-driven access control orchestrator proof of concept for incident management
 
 ![workflow](rift-workflow.png?height=300px&classes=shadow "")
 

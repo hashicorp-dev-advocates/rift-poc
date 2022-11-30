@@ -71,7 +71,7 @@ network "public" {
 
 container "rift" {
   image {
-    name = "hashicorpdevadvocates/rift:development
+    name = "hashicorpdevadvocates/rift:development"
   }
 
   port {
